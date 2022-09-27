@@ -1,0 +1,39 @@
+div{
+    font-family: sans-serif;
+    background-color: #fff3db;
+    max-width: 500px;
+    margin: auto;
+}
+
+h1{
+    color: white;
+    background-color: #f02425;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2{
+    color: #f02425;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: 100;
+
+}
+
+p{
+    margin-left: 10px;
+}
+
+.red{
+    color: #f02425;
+}
+
+.redbold{
+    color: #f02425;
+    font-weight: bold;
+}
